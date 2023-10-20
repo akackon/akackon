@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Adrian
 - 👀 I’m interested in API Development, Web Development, Data Analysis, Python.
-- 🌱 I’m currently learning Data Analysis using Python.
-- 💞️ I’m looking to collaborate on any available projects which might be challenging.
+- 🌱 I’m a Backend Software Engineer and an aspiring Data Analyst.
+- 💞️ I’m aiming to merge my knowledge of the worlds of software engineering and data analysis.
 - 📫 How to reach me: {'email': 'adrianackon@gmail.com', 'mobile': '+447918493814'} 
 
 <!---
