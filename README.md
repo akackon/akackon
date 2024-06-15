@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Adrian
-- 👀 I’m interested in API Development, Web Development, Data Analysis, Python.
-- 🌱 I’m a Backend Software Engineer and a Data Analyst.
-- 💞️ I’m aiming to merge my knowledge of the worlds of software engineering and data analysis.
-- 📫 How to reach me: {'email': 'adrianackon@gmail.com', 'mobile': '+447918493814'} 
+👋 Hi, I’m Adrian Ackon
+👀 I’m passionate about Data Science, API Development, and Data Analysis, with a strong emphasis on Python.
+🌱 I’m currently working as a Data Scientist and Backend Software Engineer.
+💞️ My objective is to integrate my skills in data science and software engineering to deliver data-driven solutions and advanced analytics.
+📫 How to reach me: [email](mailto:adrianackon@gmail.com) | [mobile](tel:+447918493814)
 
 <!---
 akackon/akackon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
